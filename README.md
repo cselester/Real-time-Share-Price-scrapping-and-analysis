@@ -22,7 +22,7 @@ Install all required dependencies:
 
 ```bash
 pip install openpyxl beautifulsoup4 lxml pandas matplotlib seaborn numpy
-
+```
 
 ## Power BI dashboard
 Page 1 : Stock Price Comparison
